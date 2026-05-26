@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authstringify",
+        "uuid": 3936216,
+        "checksum": "1vazp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
